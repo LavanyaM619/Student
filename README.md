@@ -10,6 +10,26 @@
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Installation
+
+1. Clone the repository: `git clone https://github.com/username/laravel-inertiajs-student-crud.git`
+2. Install dependencies: `composer install && npm install`
+3. Copy the `.env.example` file to `.env` and configure your environment variables.
+4. Run migrations: `php artisan migrate`
+5. Serve the application: `php artisan serve`
+
+## Usage
+
+1. Register or log in using the provided Breeze authentication.
+2. Navigate to the Dashboard.
+3. Add, view, edit, or delete students.
+4. Change the status of students between "active" and "inactive".
+
+## Dependencies
+
+- Laravel 10
+- Inertia.js
+- Breeze
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
