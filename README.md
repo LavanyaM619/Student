@@ -1,4 +1,8 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![Screenshot 2024-04-07 210758]![Screenshot 2024-04-07 210758]![Scre![Screenshot 2024-04-07 210639](https://github.com/LavanyaM619/Student/assets/110652162/ddac3d40-6880-4102-b895![Screenshot 2024-04-07 210553](https://github.com/LavanyaM619/Student/assets/110652162/8b948521-e494-4d60-89bd-37c2c55225d5)
+-e549ec367933)
+enshot 2024-04-07 210717](https://github.com/LavanyaM619/Student/assets/110652162/ba28902a-c38f-44cd-9e5b-84b7b09150f9)
+(https://github.com/LavanyaM619/Student/assets/110652162/80bb37e2-eed6-4544-bbd0-930134952408)
+(https://github.com/LavanyaM619/Student/assets/110652162/38476786-e522-4d77-85a7-1878b5821a22)<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
